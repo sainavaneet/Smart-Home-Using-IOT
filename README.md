@@ -69,4 +69,6 @@ The project implemented three different control methods for operating the smart 
 
    The timer control method enables users to schedule the activation of devices at specific times. Users can set a particular time for the devices to turn on automatically. This feature is useful for automating routines and ensuring that appliances are activated at desired times without manual intervention.
 
-Please refer to the images above for a visual representation of each control method.
+## Final Model
+
+![Final Model](images/model.png)
