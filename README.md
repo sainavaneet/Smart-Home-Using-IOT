@@ -45,3 +45,28 @@ The project successfully achieved the following outcomes:
     - Control through a mobile app
     - Voice control
     - Time-based control
+
+
+## Control Methods
+
+The project implemented three different control methods for operating the smart home system:
+
+1. Control through the Cloud:
+
+   ![Control through the Cloud](images/appESP32.png)
+
+   This method allows users to control the smart home appliances using a web-based interface or application. Users can access the control interface through any internet-connected device, such as a computer or smartphone. It provides convenience and flexibility for managing the devices remotely, even in the absence of a mobile phone.
+
+2. Control through Voice:
+
+   ![Control through Voice](images/blynk.png)
+
+   Voice control was implemented using Google Assistant and the IFTTT (If This Then That) platform. Users can give voice commands to control the devices. By assigning specific voice commands for turning on or off the appliances, users can conveniently operate the smart home system using their voice.
+
+3. Control through Timer:
+
+   ![Control through Timer](images/blyn2.png)
+
+   The timer control method enables users to schedule the activation of devices at specific times. Users can set a particular time for the devices to turn on automatically. This feature is useful for automating routines and ensuring that appliances are activated at desired times without manual intervention.
+
+Please refer to the images above for a visual representation of each control method.
