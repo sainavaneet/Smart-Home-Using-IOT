@@ -46,6 +46,15 @@ The project successfully achieved the following outcomes:
     - Voice control
     - Time-based control
 
+## Circuit Diagram
+
+Below is the circuit diagram of the smart home system:
+
+![Circuit Diagram](images/circuit.png)
+
+The circuit diagram showcases the connectivity of various components involved in the project. It includes the relays, Wi-Fi module (ESP32), and other basic electronic components. This diagram provides a visual representation of how the different elements of the system are interconnected to enable the desired functionality.
+
+
 
 ## Control Methods
 
