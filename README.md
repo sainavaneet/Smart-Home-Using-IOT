@@ -13,7 +13,7 @@ Participants:
 - Professor: 1
 - Undergraduate students: 2 (Manisha Lingala, Navaneet)
 
-Period: March 1, 2021, to July 31, 2021 (5 months)
+Period: March 1, 2022, to July 31, 2022 (5 months)
 
 Project Type: Middle
 
